@@ -1,0 +1,11 @@
+{
+  "id": "mchoseBattery",
+  "name": "MCHOSE Battery",
+  "description": "Shows the battery level of an MCHOSE wireless mouse in the bar",
+  "version": "0.1.0",
+  "author": "dxn",
+  "type": "widget",
+  "capabilities": ["mouse-battery"],
+  "component": "./MchoseBattery.qml",
+  "icon": "mouse"
+}
